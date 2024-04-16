@@ -1,11 +1,11 @@
-# UhikoChen
+# NoahChen
 
-Hi 👋, I'm Uhiko Chen
+Hi 👋, I'm Noah Chen
 
 A Frontend Developer from Taiwan
 
 🌱 I'm currently learning Vue.js, Node.js, and database technologies.  
-📝 Sometimes, I write articles in Traditional Chinese on [uhiko.dev](https://blog.uhiko.dev)
+📝 Sometimes, I write articles in Traditional Chinese on [Noah's Blog](https://noahchen.me)
 
 **Hobbies**
 
@@ -30,6 +30,6 @@ A Frontend Developer from Taiwan
 
 **Github Status**
 
-| <img align="center" src="https://github-readme-stats-eight-rust-31.vercel.app/api/top-langs/?username=uhikochen&layout=compact&hide_border=true" alt="UhikoChen's github most used languages" /> | <img align="center" src="https://github-readme-stats-eight-rust-31.vercel.app/api?username=uhikochen&show_icons=true&include_all_commits=true&hide_border=true" alt="UhikoChen's github stats" /> |
+| <img align="center" src="https://github-readme-stats-eight-rust-31.vercel.app/api/top-langs/?username=noah4520&layout=compact&hide_border=true" alt="NoahChen's github most used languages" /> | <img align="center" src="https://github-readme-stats-eight-rust-31.vercel.app/api?username=noah4520&show_icons=true&include_all_commits=true&hide_border=true" alt="NoahChen's github stats" /> |
 | ------------- | ------------- |
 
