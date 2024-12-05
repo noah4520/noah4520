@@ -4,32 +4,20 @@ Hi 👋, I'm Noah Chen
 
 A Frontend Developer from Taiwan
 
-🌱 I'm currently learning Vue.js, Node.js, and database technologies.  
+🌱 I'm currently learning frontend and backend web development technologies.  
 📝 Sometimes, I write articles in Traditional Chinese on [Noah's Blog](https://noahchen.me)
 
-**Hobbies**
+### Hobbies
 
 - 🍜 Ramen
 - 📷 Photograph
-- 🧑🏻‍💻 Coding
 - 🎮 Console Game
+- 🧑🏻‍💻 Building tools with code
 
-**Ongoing Learning**
+### Tools I Use Regularly
 
-<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/></code>
-<code><img height="20" alt="nuxtjs" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"/></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code> 
-<code><img height="20" alt="tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="20" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
-<code><img height="20" alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/></code>
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,js,ts,astro,tailwind&perline=8)](https://skillicons.dev)
 
-**Github Status**
+### Ongoing Learning
 
-| <img align="center" src="https://github-readme-stats-eight-rust-31.vercel.app/api/top-langs/?username=noah4520&layout=compact&hide_border=true" alt="NoahChen's github most used languages" /> | <img align="center" src="https://github-readme-stats-eight-rust-31.vercel.app/api?username=noah4520&show_icons=true&include_all_commits=true&hide_border=true" alt="NoahChen's github stats" /> |
-| ------------- | ------------- |
-
+[![My Skills](https://skillicons.dev/icons?i=nest,nodejs,docker,svelte,rust,react,next,&perline=8)](https://skillicons.dev)
