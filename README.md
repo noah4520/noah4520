@@ -16,8 +16,8 @@ A Frontend Developer from Taiwan
 
 ### Tools I Use Regularly
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,js,ts,astro,tailwind&perline=8)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vue,nuxt,js,ts,astro,tailwind&perline=8)
 
 ### Ongoing Learning
 
-[![My Skills](https://skillicons.dev/icons?i=nest,nodejs,docker,svelte,rust,react,next,&perline=8)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nest,nodejs,docker,svelte,rust,react,next,&perline=8)
